@@ -3,5 +3,6 @@
     "Author": "Dublin Core property author",
     "Excerpt": "Dublin Core property description",
     "Direction": null,
-    "Image": null
+    "Image": null,
+    "SiteName": null
 }

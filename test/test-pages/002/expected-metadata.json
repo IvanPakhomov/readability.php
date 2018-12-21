@@ -3,5 +3,6 @@
     "Author": "Nikhil Marathe",
     "Excerpt": "For more than a decade the Web has used XMLHttpRequest (XHR) to achieve asynchronous requests in JavaScript. While very useful, XHR is not a very ...",
     "Direction": null,
-    "Image": null
+    "Image": null,
+    "SiteName": "Mozilla Hacks – the Web developer blog"
 }
