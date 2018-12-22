@@ -59,6 +59,7 @@ Here's a list of the available properties:
 - Main image: `->getImage();`
 - All images: `->getImages();`
 - Author: `->getAuthor();`
+- Site name: `->getSiteName();`
 - Text direction (ltr or rtl): `->getDirection();`
 
 If you need to tweak the final HTML you can get the DOMDocument of the result by calling `->getDOMDocument()`.
